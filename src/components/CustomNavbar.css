@@ -1,0 +1,27 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+Nav {
+  width: 120rem; 
+  /* background-color: aquamarine; */
+}
+
+.nav-link {
+  background-color: aqua;
+  display: flex;
+  justify-content:space-around;
+}
+
+/* this is a className I gave for the Nav LInks */
+.il { 
+  margin : 0 2rem !important;
+}
+
+/* ------------------- */
+
